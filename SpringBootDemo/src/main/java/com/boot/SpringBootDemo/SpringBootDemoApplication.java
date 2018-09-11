@@ -11,4 +11,7 @@ public class SpringBootDemoApplication {
 		System.out.println("Test content");
 		System.out.println("Test2 content");
 	}
+	public void display() {
+		System.out.println("Displaying main data:");
+	}
 }
