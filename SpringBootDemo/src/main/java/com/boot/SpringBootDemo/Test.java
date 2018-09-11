@@ -7,5 +7,7 @@ public class Test {
 	}
 	 System.out.println("method call over in master");
 	 System.out.println("method execution completed");
+	 System.out.println("End of the method");
+
  }
 }
