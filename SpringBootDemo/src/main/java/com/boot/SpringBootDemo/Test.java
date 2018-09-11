@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("Data:"+(i+1));
 	}
 	 System.out.println("method call over in master");
+	 System.out.println("method execution completed");
  }
 }
